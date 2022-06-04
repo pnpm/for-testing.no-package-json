@@ -1,0 +1,1 @@
+# for-testing.no-package-json
